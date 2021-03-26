@@ -1,0 +1,19 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "A demo site build with tailwind css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewarsfx/tailwind.git"
+  },
+  "author": "innocent chidera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewarsfx/tailwind/issues"
+  },
+  "homepage": "https://github.com/codewarsfx/tailwind#readme"
+}
